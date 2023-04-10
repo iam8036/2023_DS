@@ -1,0 +1,5 @@
+from konlpy.tag import *        
+
+#konlpy.tag 에서 제공되는 함수 Okt(), Kkma( ) 호출 
+okt = Okt() 
+kkma = Kkma()
